@@ -2,12 +2,19 @@
   "name": "codemasters-server",
   "version": "1.0.0",
   "description": "API REST para el Examen UAX 20240523",
-  "main": "index.js",
+  "type": "module",
+  "main": "src/index.js",
   "author": "fselarod@uax.es",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon node src/index.js"
+  },
   "dependencies": {
     "config": "^3.3.11",
     "express": "^4.19.2",
     "express-bearer-token": "^2.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
   }
 }
