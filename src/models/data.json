@@ -1,0 +1,358 @@
+{
+  "alumnos": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "apellidos": "Pérez López",
+      "nota_media": 7.5
+    },
+    {
+      "id": 2,
+      "nombre": "María",
+      "apellidos": "González Martínez",
+      "nota_media": 8.3
+    },
+    {
+      "id": 3,
+      "nombre": "Luis",
+      "apellidos": "Rodríguez Fernández",
+      "nota_media": 6.8
+    },
+    {
+      "id": 4,
+      "nombre": "Ana",
+      "apellidos": "García Sánchez",
+      "nota_media": 9.1
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "apellidos": "López Ruiz",
+      "nota_media": 5.4
+    },
+    {
+      "id": 6,
+      "nombre": "Lucía",
+      "apellidos": "Martínez Gómez",
+      "nota_media": 7.7
+    },
+    {
+      "id": 7,
+      "nombre": "Carlos",
+      "apellidos": "Hernández Díaz",
+      "nota_media": 6.2
+    },
+    {
+      "id": 8,
+      "nombre": "Elena",
+      "apellidos": "Santos Rodríguez",
+      "nota_media": 8.6
+    },
+    {
+      "id": 9,
+      "nombre": "Miguel",
+      "apellidos": "Jiménez López",
+      "nota_media": 7.3
+    },
+    {
+      "id": 10,
+      "nombre": "Laura",
+      "apellidos": "Romero Pérez",
+      "nota_media": 8.9
+    },
+    {
+      "id": 11,
+      "nombre": "Alberto",
+      "apellidos": "Torres Sánchez",
+      "nota_media": 5.8
+    },
+    {
+      "id": 12,
+      "nombre": "Carmen",
+      "apellidos": "Molina Fernández",
+      "nota_media": 6.7
+    },
+    {
+      "id": 13,
+      "nombre": "Javier",
+      "apellidos": "Ramos García",
+      "nota_media": 9.2
+    },
+    {
+      "id": 14,
+      "nombre": "Marta",
+      "apellidos": "Vega Gómez",
+      "nota_media": 7.0
+    },
+    {
+      "id": 15,
+      "nombre": "Raúl",
+      "apellidos": "Castro Díaz",
+      "nota_media": 8.4
+    },
+    {
+      "id": 16,
+      "nombre": "Isabel",
+      "apellidos": "Flores Ruiz",
+      "nota_media": 6.5
+    },
+    {
+      "id": 17,
+      "nombre": "Antonio",
+      "apellidos": "Pérez Gómez",
+      "nota_media": 8.1
+    },
+    {
+      "id": 18,
+      "nombre": "Sara",
+      "apellidos": "Martín Fernández",
+      "nota_media": 7.4
+    },
+    {
+      "id": 19,
+      "nombre": "David",
+      "apellidos": "López Martínez",
+      "nota_media": 9.0
+    },
+    {
+      "id": 20,
+      "nombre": "Paula",
+      "apellidos": "González Torres",
+      "nota_media": 6.6
+    },
+    {
+      "id": 21,
+      "nombre": "Francisco",
+      "apellidos": "Moreno Jiménez",
+      "nota_media": 5.9
+    },
+    {
+      "id": 22,
+      "nombre": "Nuria",
+      "apellidos": "Ramírez López",
+      "nota_media": 7.2
+    },
+    {
+      "id": 23,
+      "nombre": "Sergio",
+      "apellidos": "Ortiz Pérez",
+      "nota_media": 6.1
+    },
+    {
+      "id": 24,
+      "nombre": "Clara",
+      "apellidos": "Núñez Gómez",
+      "nota_media": 8.8
+    },
+    {
+      "id": 25,
+      "nombre": "Alfonso",
+      "apellidos": "Iglesias Sánchez",
+      "nota_media": 7.6
+    },
+    {
+      "id": 26,
+      "nombre": "Eva",
+      "apellidos": "Gómez Martín",
+      "nota_media": 8.0
+    },
+    {
+      "id": 27,
+      "nombre": "Diego",
+      "apellidos": "Ruiz Fernández",
+      "nota_media": 6.4
+    },
+    {
+      "id": 28,
+      "nombre": "Andrea",
+      "apellidos": "López García",
+      "nota_media": 9.3
+    },
+    {
+      "id": 29,
+      "nombre": "Iván",
+      "apellidos": "Pérez Martínez",
+      "nota_media": 5.6
+    },
+    {
+      "id": 30,
+      "nombre": "Patricia",
+      "apellidos": "Méndez López",
+      "nota_media": 8.2
+    },
+    {
+      "id": 31,
+      "nombre": "Álvaro",
+      "apellidos": "Sanz Torres",
+      "nota_media": 7.9
+    },
+    {
+      "id": 32,
+      "nombre": "Silvia",
+      "apellidos": "Castro Díaz",
+      "nota_media": 6.3
+    },
+    {
+      "id": 33,
+      "nombre": "Víctor",
+      "apellidos": "García Hernández",
+      "nota_media": 8.5
+    },
+    {
+      "id": 34,
+      "nombre": "Alicia",
+      "apellidos": "Martínez Gómez",
+      "nota_media": 7.1
+    },
+    {
+      "id": 35,
+      "nombre": "Hugo",
+      "apellidos": "Rodríguez Ruiz",
+      "nota_media": 9.4
+    },
+    {
+      "id": 36,
+      "nombre": "Cristina",
+      "apellidos": "Pérez Díaz",
+      "nota_media": 6.9
+    },
+    {
+      "id": 37,
+      "nombre": "Enrique",
+      "apellidos": "González Torres",
+      "nota_media": 5.5
+    },
+    {
+      "id": 38,
+      "nombre": "Julia",
+      "apellidos": "Ramírez Fernández",
+      "nota_media": 8.7
+    },
+    {
+      "id": 39,
+      "nombre": "Ricardo",
+      "apellidos": "Molina García",
+      "nota_media": 7.8
+    },
+    {
+      "id": 40,
+      "nombre": "Natalia",
+      "apellidos": "Sánchez Ruiz",
+      "nota_media": 9.5
+    }
+  ],
+  "profesores": [
+    {
+      "id": 1,
+      "nombre": "Manuel",
+      "apellidos": "Fernández López",
+      "antiguedad": 10
+    },
+    {
+      "id": 2,
+      "nombre": "Cristina",
+      "apellidos": "Sánchez Gómez",
+      "antiguedad": 7
+    },
+    {
+      "id": 3,
+      "nombre": "Luis",
+      "apellidos": "Martínez Díaz",
+      "antiguedad": 15
+    },
+    {
+      "id": 4,
+      "nombre": "Elena",
+      "apellidos": "García Ruiz",
+      "antiguedad": 5
+    },
+    {
+      "id": 5,
+      "nombre": "José",
+      "apellidos": "López Torres",
+      "antiguedad": 12
+    }
+  ],
+  "asignaturas": [
+    {
+      "id": 1,
+      "nombre": "Matemáticas",
+      "curso": "1º ESO",
+      "id_profesor": 1,
+      "alumnos": [1, 2, 3, 4],
+      "descripcion": "Introducción a los conceptos básicos de aritmética, álgebra y geometría."
+    },
+    {
+      "id": 2,
+      "nombre": "Lengua",
+      "curso": "1º ESO",
+      "id_profesor": 2,
+      "alumnos": [5, 6, 7, 8],
+      "descripcion": "Estudio de la gramática, ortografía y literatura en lengua española."
+    },
+    {
+      "id": 3,
+      "nombre": "Inglés",
+      "curso": "1º ESO",
+      "id_profesor": 3,
+      "alumnos": [9, 10, 11, 12],
+      "descripcion": "Desarrollo de habilidades en el idioma inglés, incluyendo gramática y conversación."
+    },
+    {
+      "id": 4,
+      "nombre": "Ciencias",
+      "curso": "1º ESO",
+      "id_profesor": 4,
+      "alumnos": [13, 14, 15, 16],
+      "descripcion": "Exploración de conceptos fundamentales de biología, química y física."
+    },
+    {
+      "id": 5,
+      "nombre": "Educación Física",
+      "curso": "1º ESO",
+      "id_profesor": 5,
+      "alumnos": [17, 18, 19, 20],
+      "descripcion": "Fomento de la actividad física y el desarrollo de habilidades deportivas."
+    },
+    {
+      "id": 6,
+      "nombre": "Historia",
+      "curso": "2º ESO",
+      "id_profesor": 1,
+      "alumnos": [21, 22, 23, 24],
+      "descripcion": "Estudio de eventos históricos significativos desde la antigüedad hasta la era moderna."
+    },
+    {
+      "id": 7,
+      "nombre": "Geografía",
+      "curso": "2º ESO",
+      "id_profesor": 2,
+      "alumnos": [25, 26, 27, 28],
+      "descripcion": "Análisis de la tierra, sus características, poblaciones y fenómenos naturales."
+    },
+    {
+      "id": 8,
+      "nombre": "Física",
+      "curso": "2º ESO",
+      "id_profesor": 3,
+      "alumnos": [29, 30, 31, 32],
+      "descripcion": "Introducción a los principios de la física, incluyendo la mecánica y la termodinámica."
+    },
+    {
+      "id": 9,
+      "nombre": "Química",
+      "curso": "2º ESO",
+      "id_profesor": 4,
+      "alumnos": [33, 34, 35, 36],
+      "descripcion": "Estudio de la composición, estructura y propiedades de la materia."
+    },
+    {
+      "id": 10,
+      "nombre": "Tecnología",
+      "curso": "2º ESO",
+      "id_profesor": 5,
+      "alumnos": [37, 38, 39, 40],
+      "descripcion": "Exploración de conceptos de tecnología y su aplicación en la vida diaria."
+    }
+  ]
+}

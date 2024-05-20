@@ -1,1 +1,3 @@
 Usa esta carpeta para implementar los modelos de datos que necesites
+
+Completa las funciones con el comentario "// TODO"
