@@ -22,3 +22,4 @@ export default async function startApi(config) {
         console.log(`Server listening at ${config.port}`)
     })
 }
+

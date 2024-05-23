@@ -6,7 +6,11 @@ const alumnoSchema = new mongoose.Schema({
 });
 
 alumnoSchema.methods.findAsignaturas = function () {
-    // Implementar la lógica para filtrar asignaturas específicas
+    alumnoSchema.methods.findAsignaturas = function (cb) {
+        return this.model('Alumno').find({ _id: this._id })
+            .populate('asignaturas')
+            .exec(cb);
+    };
 };
 
 const Alumno = mongoose.model('Alumno', alumnoSchema);

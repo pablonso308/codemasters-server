@@ -10,6 +10,7 @@
     "dev": "nodemon node src/index.js"
   },
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "config": "^3.3.11",
     "express": "^4.19.2",
     "express-bearer-token": "^2.4.0",
